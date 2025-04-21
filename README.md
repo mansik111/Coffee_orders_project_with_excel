@@ -8,4 +8,5 @@ Microsoft Excel
 # 📸 Screenshots
 ![Screenshot (11)](https://github.com/user-attachments/assets/a24843ef-90aa-400f-b35c-484f265a32d0)
 
-
+# 📌 Use Case
+This dashboard is ideal for small coffee businesses or data enthusiasts looking to explore real-world sales trends using Excel’s built-in analytics capabilities.
