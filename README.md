@@ -6,3 +6,6 @@ Microsoft Excel
 (Pivot Tables, Charts, Slicers, Formulas, Conditional Formatting)
 
 📸 Screenshots
+![Screenshot (11)](https://github.com/user-attachments/assets/a24843ef-90aa-400f-b35c-484f265a32d0)
+
+
