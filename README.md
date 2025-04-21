@@ -12,9 +12,9 @@ This project presents an interactive Excel Dashboard that analyzes and visualize
 3. **Top 5 Customers:** Identifies the highest-value customers based on order history.
 
 ### Interactive Slicers: Filter data by:
-### 1.Coffee roast type
-### 2.Cup size
-### 3.Loyalty card holders
+1. Coffee roast type
+2. Cup size
+3. Loyalty card holders
 
 ## 📁 Tools & Technologies
 Microsoft Excel
