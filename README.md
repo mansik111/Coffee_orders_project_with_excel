@@ -2,14 +2,14 @@
 This project presents an interactive Excel Dashboard that analyzes and visualizes coffee order data across the United States. It's designed to showcase key insights into customer behavior, sales trends, and product demand — all within a clean and user-friendly Excel interface.
 
 ## 📊 Project Overview
-**Customer Data:** Includes customer details and loyalty card status.
-**Product Data:** Contains information about product ID, roast types, sizes, prices, unit price, sales, and profit.
-**Order Data:** Tracks each transaction, capturing order type, customer location, selected coffee, quantity and behavior patterns.
+1. **Customer Data:** Includes customer details and loyalty card status.
+2. **Product Data:** Contains information about product ID, roast types, sizes, prices, unit price, sales, and profit.
+3. **Order Data:** Tracks each transaction, capturing order type, customer location, selected coffee, quantity and behavior patterns.
 
 ## 📈 Dashboard Features
-**Sales Over Time:** Visualizes total sales over selected time periods.
-**Top Counties:** Highlights the top-selling counties based on revenue.
-**Top 5 Customers:** Identifies the highest-value customers based on order history.
+1. **Sales Over Time:** Visualizes total sales over selected time periods.
+2. **Top Counties:** Highlights the top-selling counties based on revenue.
+3. **Top 5 Customers:** Identifies the highest-value customers based on order history.
 
 ### Interactive Slicers: Filter data by:
 ### 1.Coffee roast type
